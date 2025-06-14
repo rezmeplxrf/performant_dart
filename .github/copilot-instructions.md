@@ -1,2 +1,2 @@
 This is a pure Dart project designed to run various benchmarks for evaluating the performance of Dart code. Each test should prioritize both accuracy and fairness to ensure reliable and consistent performance measurements.
-We use 'benchmark_harness' package for creating tests.
+We use 'benchmark_harness' package for creating tests. Any benchmark file should be created at './test folder.
